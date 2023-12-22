@@ -1,0 +1,2 @@
+same container d-flex vh-100 bg-primary justify-content-center align-items-center'
+const style = {} from app.js
